@@ -1,0 +1,11 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.options": {
+        "env": {
+            "es6": true
+        },
+        "parseOptions": {
+            "ecmaVersion": 7
+        }
+    }
+}
